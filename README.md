@@ -16,6 +16,6 @@ yarn start
 
 # Built With
 
-[Bootstrap 5](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
-[Parcel](https://parceljs.org/)
-[Axios](https://github.com/axios/axios)
+- [Bootstrap 5](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
+- [Parcel](https://parceljs.org/)
+- [Axios](https://github.com/axios/axios)

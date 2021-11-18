@@ -19,3 +19,6 @@ yarn start
 - [Bootstrap 5](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 - [Parcel](https://parceljs.org/)
 - [Axios](https://github.com/axios/axios)
+
+
+teammates - heydeia and Khazinne

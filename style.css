@@ -1,0 +1,28 @@
+body{
+    background-color: rgba(22, 191, 47, 0.858);
+    
+}
+
+li{
+    padding : 25px;
+    margin-bottom : 10px;
+    margin-top: 10px;
+    box-shadow: 0 5px 6px 0 rgba(0, 0, 0, 0.35);
+    list-style : none;
+    color : black;
+}
+h1{
+    margin-left:30%;
+    font-style:oblique;
+
+}
+button{
+    padding : 10px;
+    border-radius: 5px;
+    border: rgba(6, 4, 4, 0.372)
+}
+button:hover{
+    background-color: red;
+    border: thin black;
+    box-shadow: 0 -5px -6px 0 rgba(0, 0, 0, 0.35);
+}
